@@ -1,0 +1,8 @@
+[submodule "third_party/blender"]
+	path = third_party/blender
+	url = https://github.com/sobotka/blender.git
+	branch = blender-v2.82-release
+[submodule "third_party/RadeonRays_SDK"]
+	path = third_party/RadeonRays_SDK
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK.git
+	branch = master
